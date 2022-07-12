@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAAAXNSR0IArs4c6QAAAIlJREFUKFM1UIkRwyAMk1gjZCzojCFrkTEa9Sy7Pg4w1mNDApA3II61X82zUSIYDy4JpDN5XVv69Mb1fDV7K5hLFnHcWxq9NBj5q9EbmRqpvh5pHKRpthSkIp/pybtA2QHNBgX6LjvNnuDSNSQwzhWS1VkMyEzq0agqu7caoVBWSKOMpBLR6P+LfkiTSp49MN0yAAAAAElFTkSuQmCC') repeat;
 }
 
 code {
