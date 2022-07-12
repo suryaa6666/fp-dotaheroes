@@ -187,6 +187,11 @@ function App() {
                 </Button>
               </Modal.Footer>
             </Modal>
+            <div>
+              <a href="https://trakteer.id/suryaelidanto" target="_blank">
+                <img src={`/assets/trakteer.png`} alt='Trakteer' style={{ position: 'fixed', bottom: '0px', right: '0px', width: '100px', opacity: '0.7', borderRadius: '10px', marginRight: '5px', marginBottom: '5px' }} />
+              </a>
+            </div>
           </>
       }
     </>
